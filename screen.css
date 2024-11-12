@@ -1,4 +1,66 @@
-/* Add screen styles below */
-a.active {
+body {
+    background-color: #2D3C50;
+    margin: 0;
+    font-family: Montserrat;
+  }
+  
+  .site-header {
+    padding: .5em 1em;
+    text-align: center;
+    background-color: #213041;
+  }
+  
+  h1 {
+    text-weight: bold;
+    color: #DFDEE1;
+  }
+  
+  .site-identity h1 {
+    font-size: 1.5em;
+    margin: .6em0;
+    display: inline-block;
+  }
+  
+  main {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  
+  .col {
+    color: #DFDEE1;
+    margin-top: 45px;
+  }
+  
+  #col-text {
+    font-size: 1em;
+    font-weight: normal;
+    text-align: left;
+    width: 55%;
+  }
+  
+  #col-image {
+    width: 45%;
+    vertical-align: top;
+  }
+  
+  h2 {
+    font-size: 1.25em;
     font-weight: bold;
-}
+  }
+  
+  .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: #213041;
+     color: white;
+     text-align: center;
+     display: flex;
+     margin-top: 45px;
+  }
+  
+  .flex-child-element {
+    flex: 1;
+    margin: 20px;
+  }
