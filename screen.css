@@ -22,7 +22,8 @@ body {
   }
   
   main {
-    margin: auto;
+    margin-left: 15%;
+    margin-right: 15%;
   }
   
   .col {
@@ -34,7 +35,7 @@ body {
     font-size: 1em;
     font-weight: normal;
     text-align: left;
-    width: 55%;
+    width: 50%;
   }
   
   #col-image {
