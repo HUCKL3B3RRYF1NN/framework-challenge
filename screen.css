@@ -11,8 +11,10 @@ body {
   }
   
   h1 {
+    font-size: 2em;
     text-weight: bold;
     color: #DFDEE1;
+
   }
   
   .site-identity h1 {
