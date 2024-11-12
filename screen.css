@@ -45,7 +45,7 @@ body {
     vertical-align: top;
   }
   
-  h2, .footer {
+  h2 {
     font-size: 1.25em;
     font-weight: bold;
   }
@@ -58,6 +58,7 @@ body {
      background-color: #213041;
      color: white;
      text-align: center;
+     font-size: 1.25em;
      display: flex;
      margin-top: 45px;
   }
