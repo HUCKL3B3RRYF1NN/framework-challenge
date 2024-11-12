@@ -1,4 +1,5 @@
 body {
+    background-color: #2D3C50;
     margin: 0;
     font-family: Montserrat;
 }
@@ -18,8 +19,7 @@ body {
 }
 
 main {
-  background-color: #2D3C50;
-  margin-top: 15%;
+  margin-top: 5%;
   margin-left: 15%;
   margin-right: 15%;
 }
