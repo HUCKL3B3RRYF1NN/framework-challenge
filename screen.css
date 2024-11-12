@@ -10,15 +10,10 @@ body {
     background-color: #213041;
   }
   
-  h1 {
+  .site-identity h1 {
     font-size: 2em;
     font-weight: bold;
     color: #DFDEE1;
-
-  }
-  
-  .site-identity h1 {
-    font-size: 1.5em;
     margin: .6em0;
     display: inline-block;
   }
