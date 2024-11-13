@@ -11,7 +11,7 @@ body {
 }
 
 .site-identity h1 {
-  font-size: 2em;
+  font-size: 1.953em;
   font-weight: bold;
   color: #DFDEE1;
   margin: .6em0;
@@ -29,7 +29,7 @@ main {
 }
 
 #col-text {
-  font-size: 1em;
+  font-size: 1.25em;
   font-weight: normal;
   text-align: left;
   width: 50%;
@@ -41,7 +41,7 @@ main {
 }
 
 h2 {
-  font-size: 1.25em;
+  font-size: 1.563em;
   font-weight: bold;
 }
 
@@ -54,6 +54,7 @@ h2 {
     color: white;
     text-align: center;
     font-size: 1.25em;
+    font-weight: bold;
     display: flex;
     margin-top: 45px;
 }
