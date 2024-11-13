@@ -48,6 +48,10 @@ h2 {
   font-weight: bold;
 }
 
+.img-thumbnail {
+  border-color: #213041;
+}
+
 .footer {
     position: fixed;
     left: 0;
