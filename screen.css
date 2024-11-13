@@ -27,19 +27,19 @@ main {
   color: #DFDEE1;
 }
 
-#col-text {
+#col-text-1, #col-text-2 {
   font-size: 1.25em;
   font-weight: normal;
   text-align: left;
   width: 50%;
 }
 
-#col-image {
+#col-image-1, #col-image-2 {
   width: 45%;
   vertical-align: top;
 }
 
-#row-2 {
+#col-text-2, #col-image-2 {
   padding-top: 70px;
 }
 
