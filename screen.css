@@ -25,7 +25,7 @@ main {
 
 .col {
   color: #DFDEE1;
-  margin-top: 45px;
+  margin-top: 70px;
 }
 
 #col-text {
@@ -54,7 +54,7 @@ h2 {
     color: white;
     text-align: center;
     font-size: 1.25em;
-    font-weight: bold;
+    font-weight: normal;
     display: flex;
     margin-top: 45px;
 }
