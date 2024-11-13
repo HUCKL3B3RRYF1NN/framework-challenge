@@ -48,8 +48,8 @@ h2 {
   font-weight: bold;
 }
 
-.img-thumbnail {
-  border-color: #213041;
+img {
+  width: 400px;
 }
 
 .footer {
