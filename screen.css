@@ -25,7 +25,6 @@ main {
 
 .col {
   color: #DFDEE1;
-  padding-top: 70px;
 }
 
 #col-text {
@@ -38,6 +37,10 @@ main {
 #col-image {
   width: 45%;
   vertical-align: top;
+}
+
+#row-2 {
+  padding-top: 70px;
 }
 
 h2 {
